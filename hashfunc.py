@@ -2,7 +2,6 @@ def code(a):
 	l = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 	new_a = ''
 	for x in a:
-		print(x)
 		if x.isdigit():
 			if x == '7':
 				new_a += '#'
@@ -11,7 +10,6 @@ def code(a):
 			else:
 				new_a += str(9 - int(x))
 		else:
-			print('hh')
 			if l.index(x) < 13:
 				new_a += l[26 - l.index(x)].upper()
 			else:
