@@ -17,7 +17,3 @@
   <code><b>dec_a = decode(a) #outputs 'string'</b></code></h3>
 <h1>Tips</h1>
 <h3>This is not a <b>high complexity algorithm</b></h3>
-<h1>Problems</h1>
-<h3>If you have some problems with setup:</h3>
-<h3>Email me : nickorovkinwork@gmail.com</h3>
-<h3>My Telegram : @c00re</h3>
